@@ -9,5 +9,5 @@ config :my_app, MyApp.Endpoint,
 # Configure your database
 config :my_app, MyApp.Repo,
   adapter: Ecto.Adapters.Postgres,
-  url: System.get_env("DATABASE_URL")
+  url: System.get_env("DATABASE_URL"),
   size: 20 # The amount of database connections in the pool
