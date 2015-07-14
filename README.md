@@ -1,4 +1,8 @@
-# MyApp
+# Elixir Playground
+
+Build with a helping from [Wendy Smoak's great tutorial](http://wsmoak.net/2015/07/12/phoenix-and-ecto-from-mix-new-to-heroku.html).
+
+## Run it
 
 To start your new Phoenix application:
 
